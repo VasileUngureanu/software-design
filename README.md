@@ -14,7 +14,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * ["A Philosophy of Software Design" book](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
 * ["Clean Code: A Handbook of Agile Software Craftsmanship" book](https://www.goodreads.com/book/show/3735293-clean-code)
 * ["99 Bottles of OOP" book](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop)
-* [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
+* [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 * [The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)
 * [Crafted Design](https://www.youtube.com/watch?v=dYvSaajboEs)
