@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * ["Agile Technical Practices Distilled" book](https://www.goodreads.com/book/show/41758433-agile-technical-practices-distilled)
+
+### To master, contine with
+
 * ["Understanding the Four Rules of Simple Design" book](https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design)
 * ["Refactoring: Improving the Design of Existing Code 2nd Edition" book](https://www.goodreads.com/book/show/44719608-refactoring)
 * ["A Philosophy of Software Design" book](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
