@@ -37,6 +37,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Naming: Climbing Towards Abstraction](https://codedevotional.com/blog/naming-climbing-towards-abstraction)
 * [What To Tidy](https://medium.com/@kentbeck_7670/what-to-tidy-28cb46e55009)
 * [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/)
+* [Improving Design - Separating responsibilities](https://jovmit.io/posts/simple-design/)
 
 ## Usage
 
