@@ -38,6 +38,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [What To Tidy](https://medium.com/@kentbeck_7670/what-to-tidy-28cb46e55009)
 * [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/)
 * [Improving Design - Separating responsibilities](https://jovmit.io/posts/simple-design/)
+* [Improving OO Design by Removing Old Habits](https://www.youtube.com/watch?v=JMssBdJOSMQ)
 
 ## Usage
 
